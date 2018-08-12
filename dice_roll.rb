@@ -3,7 +3,8 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  puts dice = 1..6
+  dice = rand(6)
+  puts dice
   lol = [1,2,3,4,5,6,]
   return lol[dice];
   # code goes here
