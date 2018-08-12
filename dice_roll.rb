@@ -7,3 +7,4 @@ def roll
   return dice;
   # code goes here
 end
+roll()
