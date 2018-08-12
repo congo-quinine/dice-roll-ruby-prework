@@ -4,7 +4,8 @@
 
 def roll
   dice = rand(6)
-  return dice;
+  lol = [1,2,3,4,5,6,]
+  return dice[dice];
   # code goes here
 end
 roll()
